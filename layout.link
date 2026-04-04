@@ -194,39 +194,39 @@ ROMX $05
 
 ROMX $06
 	org $4000
-	"gfx.asm@Bank 6 Tilesets 00"
+	"gfx.asm@Bank 6 Tilesets Silent Hill"
 	org $4e00
-	"gfx.asm@Bank 6 Tilesets 1b"
+	"gfx.asm@Bank 6 Tilesets Forest"
 	org $5800
-	"gfx.asm@Bank 6 Tilesets 01"
+	"gfx.asm@Bank 6 Tilesets Old City"
 	org $6600
-	"gfx.asm@Bank 6 Tilesets 02"
+	"gfx.asm@Bank 6 Tilesets West"
 	org $7400
-	"gfx.asm@Bank 6 Tilesets 09"
+	"gfx.asm@Bank 6 Tilesets House"
 
 ROMX $07
 	org $4000
-	"gfx.asm@Bank 7 Tilesets 13"
+	"gfx.asm@Bank 7 Tilesets Rocket House"
 	org $4b00
-	"gfx.asm@Bank 7 Tilesets 0e"
+	"gfx.asm@Bank 7 Tilesets Aquarium"
 	org $5600
-	"gfx.asm@Bank 7 Tilesets 06"
+	"gfx.asm@Bank 7 Tilesets Bull Forest"
 	org $6400
-	"gfx.asm@Bank 7 Tilesets 05"
+	"gfx.asm@Bank 7 Tilesets Fonto"
 	org $7200
-	"gfx.asm@Bank 7 Tilesets 03"
+	"gfx.asm@Bank 7 Tilesets Haiteku"
 
 ROMX $08
 	org $4000
-	"gfx.asm@Bank 8 Tilesets 04"
+	"gfx.asm@Bank 8 Tilesets Baadon"
 	org $4e00
-	"gfx.asm@Bank 8 Tilesets 07"
+	"gfx.asm@Bank 8 Tilesets Kanto"
 	org $5c00
-	"gfx.asm@Bank 8 Tilesets 08"
+	"gfx.asm@Bank 8 Tilesets South"
 	org $6a00
-	"gfx.asm@Bank 8 Tilesets 0f"
+	"gfx.asm@Bank 8 Tilesets Tower"
 	org $7500
-	"gfx.asm@Bank 8 Tilesets 11"
+	"gfx.asm@Bank 8 Tilesets Gate"
 
 ROMX $09
 	org $4000
@@ -253,15 +253,15 @@ ROMX $0b
 
 ROMX $0c
 	org $4000
-	"gfx.asm@Bank C Tilesets 12"
+	"gfx.asm@Bank C Tilesets Radio Tower"
 	org $4b00
-	"gfx.asm@Bank C Tilesets 0b"
+	"gfx.asm@Bank C Tilesets Traditional House"
 	org $5600
-	"gfx.asm@Bank C Tilesets 0d"
+	"gfx.asm@Bank C Tilesets Mart"
 	org $6100
-	"gfx.asm@Bank C Tilesets 14"
+	"gfx.asm@Bank C Tilesets Gym"
 	org $7100
-	"gfx.asm@Bank C Tilesets 0c"
+	"gfx.asm@Bank C Tilesets Pokecenter"
 	org $7c00
 	"gfx.asm@Bank C Tilesets Common"
 
@@ -306,13 +306,13 @@ ROMX $12
 
 ROMX $13
 	org $4000
-	"gfx.asm@Bank 13 Tilesets 0a"
+	"gfx.asm@Bank 13 Tilesets Lab"
 	org $4b00
-	"gfx.asm@Bank 13 Tilesets 16"
+	"gfx.asm@Bank 13 Tilesets Ruins Of Alph"
 	org $5b00
-	"gfx.asm@Bank 13 Tilesets 19"
+	"gfx.asm@Bank 13 Tilesets Ship"
 	org $6900
-	"gfx.asm@Bank 13 Tilesets 1a"
+	"gfx.asm@Bank 13 Tilesets Ship Port"
 
 ROMX $14
 	org $4000
@@ -907,13 +907,13 @@ ROMX $36
 
 ROMX $37
 	org $4000
-	"gfx.asm@Bank 37 Tilesets 10"
+	"gfx.asm@Bank 37 Tilesets Dept Store"
 	org $4b00
-	"gfx.asm@Bank 37 Tilesets 15"
+	"gfx.asm@Bank 37 Tilesets Office"
 	org $5b00
-	"gfx.asm@Bank 37 Tilesets 17"
+	"gfx.asm@Bank 37 Tilesets Cave"
 	org $6b00
-	"gfx.asm@Bank 37 Tilesets 18"
+	"gfx.asm@Bank 37 Tilesets Power Plant"
 
 ROMX $38
 	org $4000
